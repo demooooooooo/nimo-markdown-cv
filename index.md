@@ -2,7 +2,7 @@
 layout: cv
 title: Wode "Nimo" Ni
 email:
-  url: 18800568060@139.com
+  url: xx@xx.com
 homepage:
   url: http://cs.cmu.edu/~woden
   text: cs.cmu.edu/~woden
