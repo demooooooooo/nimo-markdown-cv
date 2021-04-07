@@ -2,14 +2,13 @@
 layout: cv
 title: Wode "Nimo" Ni
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: 18800568060@139.com
 homepage:
   url: http://cs.cmu.edu/~woden
   text: cs.cmu.edu/~woden
 ---
 
-# Wode **Ni**
+#  **丛**文杰
 
 <!--
 include contact information from the front matter
